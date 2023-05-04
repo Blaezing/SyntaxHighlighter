@@ -11,8 +11,11 @@
 *the only import you will need outside of this fileset is re*
 
 1.) In the example.py file is a place where you can put your code, to start, there is already test code that illustrates the highlighter
+
 2.) All files have to be in the same directory (or specify the filepath)
+
 3.) When you execute, run the 'example.py' file once it is done running it will output an HTML webpage
+
 4.) If the HTML webpage doesn't open automatically, the HTML page will be placed in the same directory as your code is in. (this code)
 
 # That's it, enjoy!
