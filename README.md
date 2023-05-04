@@ -8,7 +8,7 @@
 
 # How to Use
 
-*the only import you will need outside of this fileset is re*
+*The only import you will need outside of this fileset is re*
 
 1.) In the example.py file is a place where you can put your code, to start, there is already test code that illustrates the highlighter
 
