@@ -1,0 +1,29 @@
+/* keywords */
+span.keyword {
+    color: #1c9007
+}
+
+/* variables */
+span.variable {
+    color: #bccb15;
+}
+
+/* numbers */
+span.number {
+    color: #e40a0e;
+}
+
+/* strings */
+span.string {
+    color: #ee44b6;
+}
+
+/* built-in functions */
+span.builtin {
+    color: #081e80;
+}
+
+span.comment {
+    color: #0aefd8
+}
+
