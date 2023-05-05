@@ -9,12 +9,7 @@ class Highlighter():
         builtins = re.compile(r'\b(print|len|range|input|open|abs|bin|bool|chr|complex|dict|float|hex|int|list|oct|pow|set|slice|str|tuple|type|zip|super|setattr|getattr|delattr|issubclass|isinstance)\b')
         variables = re.compile(r'\b[a-zA-Z]\w*\b')
         numbers = re.compile(r'\b(\d+)\b')
-
-
-
-
-
-
+        
         # Define the HTML tags to use for different types of tokens
         tags = {
             keywords: 'keyword',
